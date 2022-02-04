@@ -1,1 +1,1 @@
-# magicBin
+# MagicBin
