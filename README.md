@@ -1,2 +1,2 @@
 # MagicBin
-The MagicBin
+The MagicBin is
