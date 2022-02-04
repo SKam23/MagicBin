@@ -1,2 +1,2 @@
 # MagicBin
-test 
+test 2
