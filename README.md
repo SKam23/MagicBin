@@ -1,1 +1,2 @@
 # MagicBin
+test 
