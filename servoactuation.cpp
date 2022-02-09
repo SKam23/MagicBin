@@ -3,9 +3,11 @@
 
 #include <Servo.h>
 #include <Wire.h>
+#include <SerLCD.h>
 
 Servo left;  
 Servo right;
+SerLCD lcd;
 
 const int button1 = 2;
 const int button2 = 1;
@@ -17,6 +19,12 @@ String msg;
 
 void setup() {
   Serial.begin(9600);
+  Wire.begin();
+  lcd.begin(Wire);
+  lcd.setBacklight(255, 255, 255);
+  lcd.setContrast(5);
+  lcd.clear();
+  lcd.clear("MAGIC BIN");
   left.attach(9); 
   right.attach(10);
   pinMode(button1, INPUT);
