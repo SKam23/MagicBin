@@ -9,6 +9,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 - CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM
 - Arducam Lens Board OV5647 Sensor for Raspberry Pi Camera
 - Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi
+- SparkFun 16x2 SerLCD - RGB Text
 - TP-Link USB WiFi Adapter for PC
 - 5V 2A (2000mA) switching power supply 
 - Flex Cable for Raspberry Pi Camera
@@ -17,5 +18,13 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 - OPTIX Acrylic Sheet
 
 ## Tools/Machinary 
-- 
+- Rabbit Laser Cutter
+- Dremel 3D40 Printer
+- CAD (Soildworks)
+- Miter saw
 
+## Purpose 
+-
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
