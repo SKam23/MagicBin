@@ -10,7 +10,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 
 ## Process
   
-## Smart Contact Implementation 
+## Smart Contract Implementation 
 <p align="center">
   <img src="/assets/Screen Shot 2022-02-13 at 1.27.39 PM.png" width="350" height="176.35">
   <img src="/assets/Screen Shot 2022-02-13 at 1.27.48 PM.png" width="350" height="176.35">
