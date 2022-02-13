@@ -26,5 +26,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 ## Purpose 
 -
 
+## Next Step
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
