@@ -8,6 +8,11 @@ The **MagicBin** is an enhanced trash detection system that hopes to collectivel
 <!--   <img src="/assets/MagicBin.jpg" width="500" height="410"> -->
 </p>
 
+<p align="center">
+  <img src="/assets/MagicBin-Collab.png" width="500" height="325.95">
+<!--   <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption> -->
+</p>
+
 ## Electrical Systems
 <p align="center">
   <img src="/assets/magicbinelec.png" width="500" height="366">
