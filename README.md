@@ -10,6 +10,14 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 
 ##  📃 Process 📃
   
+## Smart Contact Implementation 
+<p align="center">
+  <img src="/assets/Screen Shot 2022-02-13 at 1.27.39 PM.png" width="500" height="251.93">
+  <img src="/assets/Screen Shot 2022-02-13 at 1.27.48 PM.png" width="500" height="251.93">
+  <img src="/assets/Screen Shot 2022-02-13 at 1.27.55 PM.png" width="500" height="251.93">
+</p>
+
+## Process
 
 ## ⚙️ Materials ⚙️
 - CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM
