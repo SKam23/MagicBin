@@ -14,4 +14,8 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 - Flex Cable for Raspberry Pi Camera
 - Standard servo - TowerPro SG-5010 - 5010
 - Servo Extension Cable - 30cm
+- OPTIX Acrylic Sheet
+
+## Tools/Machinary 
+- 
 
