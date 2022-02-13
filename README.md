@@ -28,6 +28,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 -
 
 ## Next Step
+With an increased budget and additional time, our MagicBin would consist of a newer and improved trained dataset that can detect recyclables beyond bottles. With a larger dataset, our hope is to differentiate multiple recycable materials from other waste products. This would allow our MagicBin to consist of multiple compartments for each identifiable category of recyclable materials. Furthemore, with a higher quality hardware system, our MagicBin could more quickly and efficiently sort our trash with respect to its recyclability.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
