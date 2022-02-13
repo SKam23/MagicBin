@@ -39,7 +39,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 ## Purpose 
 Our purpose is to improve the accuracy of recycling and increase recycling amounts through monetary incentives.
 
-## ➡️ Next Step ➡️
+## Next Step
 With an increased budget and additional time, our MagicBin would consist of a newer and improved trained dataset that can detect recyclables beyond bottles. With a larger dataset, our hope is to differentiate multiple recycable materials from other waste products. This would allow our MagicBin to consist of multiple compartments for each identifiable category of recyclable materials. Furthemore, with a higher quality hardware system, our MagicBin could more quickly and efficiently sort our trash with respect to its recyclability.
 
 Currently, the national recycling rate sits at only 32.1%, but nearly 80% of all waste can be recycled. Our MagicBin hopes to solve this systemic problem by providing a convenience to users. By allowing our trash bin to determine the recyclability of the object, users are now free of the burden to identify their waste products on their own. Furthermore, by seperating recyclable items from each other, our MagicBin can reduce potential contamination among some plastics and non-recyable materials. Overall, by adding more compartments and improving our hardware features, our MagicBin hopes to increase the recycling rate by reducing contamination and improving recycling identification.
