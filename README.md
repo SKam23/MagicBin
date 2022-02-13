@@ -16,9 +16,6 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
   <img src="/assets/Screen Shot 2022-02-13 at 1.27.55 PM.png" width="350" height="176.35">
 </p>
 
-# Process
-
-
 ##  Materials 
 - CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM
 - Arducam Lens Board OV5647 Sensor for Raspberry Pi Camera
