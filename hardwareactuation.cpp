@@ -5,7 +5,7 @@
 #include <Wire.h>
 #include <SerLCD.h>
 
-Servo left;  
+Servo left;
 Servo right;
 SerLCD lcd;
 
@@ -13,25 +13,21 @@ const int button1 = 2;
 const int button2 = 1;
 int buttonstate1 = 0;
 int buttonstate2 = 0;
-int pos = 90;   
+int pos = 95;   
 String nom = "Arduino";
 String msg;
 
 void setup() {
-  Serial.begin(9600);
   Wire.begin();
   lcd.begin(Wire);
-  lcd.setBacklight(255, 255, 255);
-  lcd.setContrast(5);
-  lcd.clear();
-  lcd.clear("MAGIC BIN");
   left.attach(9); 
   right.attach(10);
   pinMode(button1, INPUT);
   pinMode(button1, INPUT);
+  Serial.begin(9600);
 }
 
-  void readSerialPort() {
+void readSerialPort() {
   msg = "";
   if (Serial.available()) {
     delay(10);
@@ -41,30 +37,38 @@ void setup() {
     Serial.flush();
   }
 }
-  void sendData() {
+void sendData() {
   //write data
-    Serial.print(nom);
-    Serial.print(" received : ");
-    Serial.print(msg);
+  Serial.print(nom);
+  Serial.print(" received : ");
+  Serial.print(msg);
   }
-
 
 void loop() { 
   readSerialPort();
   buttonstate1 = digitalRead(button1);
   buttonstate2 = digitalRead(button2);
 
-  if (msg == "A" || buttonstate1 == HIGH)
+  if (Serial.available()) {
+    delay(100);
+    lcd.clear();
+    while (Serial.available()>0) {
+      lcd.write(Serial.read());
+    }
+
+  }
+
+  else if (msg == "A" || buttonstate1 == HIGH)
   {
     sendData();
-    for (pos = 90; pos <= 180; pos += 1) 
+    for (pos = 95; pos <= 180; pos += 1) 
     { 
       left.write(pos);              
-      right.write(180-pos);
+      right.wri`te(180-pos);
       delay(10);                      
     }
   delay(1500);
-    for (pos = 180; pos >= 90; pos -= 1) 
+    for (pos = 180; pos >= 95; pos -= 1) 
     { 
       left.write(pos);
       right.write(180-pos);          
@@ -74,14 +78,14 @@ void loop() {
   else if (msg == "B" || buttonstate2 == HIGH)
   {
     sendData();
-    for (pos = 90; pos >= 0; pos -= 1) 
+    for (pos = 95; pos >= 0; pos -= 1) 
     { 
       left.write(pos);
       right.write(180-pos);          
       delay(10);
     }
   delay(1500);
-    for (pos = 0; pos <= 90; pos += 1) 
+    for (pos = 0; pos <= 95; pos += 1) 
     { 
       left.write(pos);
       right.write(180-pos);          
