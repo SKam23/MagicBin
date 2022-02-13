@@ -8,7 +8,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 <!--   <img src="/assets/MagicBin.jpg" width="500" height="410"> -->
 </p>
 
-##  📃 Process 📃
+## Process
   
 ## Smart Contact Implementation 
 <p align="center">
@@ -19,7 +19,7 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 
 ## Process
 
-## ⚙️ Materials ⚙️
+##  Materials 
 - CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM
 - Arducam Lens Board OV5647 Sensor for Raspberry Pi Camera
 - Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi
@@ -31,13 +31,13 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 - Servo Extension Cable - 30cm
 - OPTIX Acrylic Sheet
 
-## 🔨 Tools/Machinary 🔨
+## Tools/Machinary
 - Rabbit Laser Cutter
 - Dremel 3D40 Printer
 - CAD (Soildworks)
 - Miter saw
 
-## 💡 Purpose 💡
+## Purpose 
 Our purpose is to improve the accuracy of recycling and increase recycling amounts through monetary incentives.
 
 ## ➡️ Next Step ➡️
