@@ -47,4 +47,3 @@ Currently, the national recycling rate sits at only 32.1%, but nearly 80% of all
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
