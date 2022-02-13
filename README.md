@@ -1,4 +1,3 @@
-main
 # CMU 21-22 Build18 Hackathon : MagicBin
 ### By Alex Yoon, Luke Blackwell, Minjune Song, Sajan Shah, Steven Kam
 
@@ -31,7 +30,4 @@ The MagicBin is an enhanced trash detetection system that hopes to collectly sol
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
-# MagicBin
-test 2
-main
+
