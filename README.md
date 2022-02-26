@@ -37,7 +37,7 @@ The **MagicBin** is an enhanced trash detection system that hopes to collectivel
 - Servo Extension Cable - 30cm
 - OPTIX Acrylic Sheet
 
-## Tools/Machinary
+## Tools/Machinery/Software
 - Rabbit Laser Cutter
 - Dremel 3D40 Printer
 - CAD (Soildworks)
